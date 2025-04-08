@@ -31,8 +31,8 @@ Our goal is to practice real-world full-stack development while applying modern 
 
 ## 🔗 Team Members
 
-👤 [Hrustinszki Ádám](https://github.com/hrustinszkiadam)
-👤 [Derkovics Márk](https://github.com/9mrk9)
+👤 [Hrustinszki Ádám](https://github.com/hrustinszkiadam)  
+👤 [Derkovics Márk](https://github.com/9mrk9)  
 👤 [Máté Ferenc](https://github.com/ferkabruv)
 
 <p align="center">
