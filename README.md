@@ -12,4 +12,5 @@ This repository contains community files for the **Task Vault** organization.
 ---
 
 🔗 **Web App Repository**: [task-vault/web](https://github.com/task-vault/web)
+
 🔗 **Server App Repository**: [task-vault/server](https://github.com/task-vault/server)
